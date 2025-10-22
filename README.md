@@ -5,4 +5,4 @@ Includes trend, volatility, and risk–return analyses to uncover insights on po
 <p></p>
 <p><b>Yahoo Finance Stocks - Food Delivery Services.ipynb</p></b>
 <p></p>
-Analyzed 5 years of stock data (2020–2025) for DoorDash, Uber, Amazon, and Domino’s using Python and Yahoo Finance. Visualized price trends, volatility, and risk–return relationships to assess performance and investment stability in the U.S. food delivery sector.
+Analyzed 5 years of stock data (2020–2025) for DoorDash, Uber, and Amazon using Python and Yahoo Finance. Visualized price trends, volatility, and risk–return relationships to assess performance and investment stability in the U.S. food delivery sector.
